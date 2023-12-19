@@ -1,1 +1,1 @@
-# The best diffusion papers
+# The best diffusion math sources
